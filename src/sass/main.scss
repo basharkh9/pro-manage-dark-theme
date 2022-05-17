@@ -1,0 +1,23 @@
+/*
+for more info about customizing bootstrap with scss files refer to the link :
+https://getbootstrap.com/docs/4.2/getting-started/theming/
+*/
+
+
+// main.scss
+
+// custom variables
+$primary: #EC4E6E;
+$primary-lighter: #FF3E9F;
+$bg-dark: #2A3550;
+$bg-dark-lighter: #35415E;
+$bg-green: #D3FFF1;
+$text-primary: #FF3C9E;
+$text-secondary: #6B43EB;
+$text-orange: #FF9C46;
+$text-green: #569F87;
+$pure-white: #FFFFFF;
+
+
+// Option A: Include all of Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
