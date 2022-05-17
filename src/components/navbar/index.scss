@@ -1,0 +1,22 @@
+$body-bg: #35415E;
+$primary: #EC4E6E;
+
+.background--dark {
+    background-color: $body-bg;
+    color: $primary;
+}
+
+.user--info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 0.1rem;
+    color: #fff;
+}
+
+.user--name {
+    font-size: 1rem;
+}
+.user--role {
+    font-size: .7rem;
+}
