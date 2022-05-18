@@ -1,3 +1,20 @@
-.flex-fixed-width-item {
-  flex: 0 0 100px;
+.container-fluid {
+  padding-right: 0;
+}
+.sidebar {
+  margin-left: 0;
+  background-color: #35415e;
+}
+
+.container-wrapper {
+  min-height: 100vh;
+  min-width: 100%;
+  margin-right: 0;
+}
+
+.content {
+  background-color: #2a3550;
+}
+.main--container {
+  background-color: #2a3550;
 }

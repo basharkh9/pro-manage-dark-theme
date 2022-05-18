@@ -6,7 +6,7 @@ import "./index.scss";
 export default function navbar() {
   return (
     <>
-      <nav className="navbar navbar-expand-lg  background--dark">
+      <nav className="navbar navbar-expand-lg  background--dark mb-0">
         <div className="container-fluid">
           {/* <a className="navbar-brand" href="#">
             Navbar
