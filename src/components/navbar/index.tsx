@@ -57,7 +57,7 @@ export default function navbar() {
                 <div className="user--name">Diane Ward</div>
                 <div className="user--role">Product Manger</div>
               </div>
-              <RoundedImage />
+              <RoundedImage src="/assets/Basharkhadra.jpg" />
             </div>
           </div>
         </div>
